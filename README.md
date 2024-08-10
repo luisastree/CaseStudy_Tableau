@@ -1,4 +1,4 @@
-# CaseS tudy Tableau
+# Case Study Tableau
 Case Study Tableau
 
 Tableau Profile:
