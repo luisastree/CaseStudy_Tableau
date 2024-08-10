@@ -29,5 +29,7 @@ From this we know where employees are located in case of any meeting, natural di
 -Main term reason is 'Another position'
 
 From this we can implement new improvements on departments to motivate more the employees
+
 We can further investigate why male show less satisfaction than female
+
 Also implement actions based on the term reasons to retain employess
